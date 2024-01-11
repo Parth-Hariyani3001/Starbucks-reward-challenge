@@ -1,0 +1,64 @@
+.navigation-main{
+  max-width: 140rem;
+  padding: 0 3.2rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 22px;
+  font-weight: 500;
+  color : #000000;
+  align-items: 600;
+  font-size: 18px;
+  letter-spacing: 1.5px;
+}
+
+.navigation-first-part{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.navigation-second-part{
+    display: flex;
+    justify-content: space-between;
+    gap: 35px;
+    align-items: center;
+}
+
+.find-a-store-link{
+    font-size: 14px;
+}
+
+.navigation-button-part{
+    display: flex;
+    gap: 15px;
+}
+
+.navigation-button-part button{
+    border: black solid 0.5px;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+.signin{
+    background-color: transparent;
+    color: #000000;
+}
+
+.signup{
+    background-color: #000000;
+    color: #f1f8f6;
+}
+
+.navigation-strip{
+    background-color: #1e3932;
+    padding: 10px;
+    color: #f1f8f6;
+    letter-spacing: 1.5px;
+    box-shadow: 0 2px 3px -1px black;
+}
+
+.navigation-strip p{
+    margin-left: 75px;
+    font-weight: 600;
+}

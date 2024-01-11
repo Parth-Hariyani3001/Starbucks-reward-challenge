@@ -1,0 +1,37 @@
+.header-main{
+    background-image:url("./../../assets/hero-desktop.jpg");
+    /* background-attachment: fixed; */
+    background-size: cover;
+    background-position: center center;
+    font-family: "roboto";
+}
+
+.header-section{
+    padding-top: 335px;
+    padding-bottom: 335px;
+    margin-left: 100px;
+}
+
+.header-title{
+    color: #131313;
+    font-weight: 550;
+    margin-bottom: 15px;
+    font-size: 26px;
+}
+
+.header-content{
+    margin-bottom: 25px;
+    color: #1e3932;
+    font-size: 20px;
+}
+
+.join-now{
+    border: transparent solid 0.5px;
+    border-radius: 12px;
+    padding: 5px;
+    margin-bottom: 10px;
+    color: white;
+    background-color: #008248;
+    font-size: 20px;
+    letter-spacing: 1.1px;
+}
